@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { Section, StyledSpan } from "../pages/ui";
+import { Section, StyledSpan } from "./ui";
 import { motion } from "framer-motion";
 import { useScroll } from "./useScroll";
 import { fade, container } from "./Animations";

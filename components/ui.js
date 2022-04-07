@@ -86,7 +86,7 @@ export const Button = styled.button`
       ? `linear-gradient(
       1000deg,
       //260 idk czy ladniej
-      //
+      //lub bialy
       rgba(255, 255, 255, .9),
       rgba(255, 255, 255, .9),
       rgba(255, 255, 255, 0),

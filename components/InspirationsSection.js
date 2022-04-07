@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { useScroll } from "./useScroll";
 import { container, fadeInUp } from "./Animations";
 import { motion } from "framer-motion";
-import { Section, StyledP, StyledSpan } from "../pages/ui";
+import { Section, StyledP, StyledSpan } from "./ui";
 import Link from "next/link";
 
 const TextDiv = styled(motion.div)`

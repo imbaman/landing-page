@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import React from "react";
 import Image from "next/image";
-import { StyledHeading } from "../pages/ui";
+import { StyledHeading } from "./ui";
 
 const StyledHeroText = styled.div`
   position: absolute;

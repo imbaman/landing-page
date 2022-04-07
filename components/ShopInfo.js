@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import { Button, Section, StyledP, StyledHeading } from "../pages/ui";
+import { Button, Section, StyledP, StyledHeading } from "./ui";
 import { useScroll } from "./useScroll";
 import { width, widthSmall } from "./Animations";
 

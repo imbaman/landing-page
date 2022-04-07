@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import { fade } from "../components/Animations";
 import { motion } from "framer-motion";
-import { Section } from "./ui";
+import { Section } from "../components/ui";
 import { useRouter } from "next/router";
 import Link from "next/link";
 

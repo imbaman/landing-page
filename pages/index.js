@@ -1,7 +1,7 @@
 import Media from "../components/Media";
 import Footer from "../components/Footer";
 import InfoSection from "../components/InfoSection";
-import { Wrapper } from "./ui";
+import { Wrapper } from "../components/ui";
 import InspirationsSection from "../components/InspirationsSection";
 import ShopInfo from "../components/ShopInfo";
 import OfferInfo from "../components/OfferInfo";

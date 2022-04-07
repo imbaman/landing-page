@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import { Button, Section, StyledP, StyledHeading } from "../pages/ui";
+import { Button, Section, StyledP, StyledHeading } from "./ui";
 import { motion } from "framer-motion";
 // import { useScroll } from "./useScroll";
 // import {  fade } from "./Animations";
