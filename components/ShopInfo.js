@@ -48,7 +48,7 @@ const LineSmall = styled(motion.img)`
 `;
 
 const TextContainer = styled.div`
-  max-width: 70%;
+  max-width: 55%;
   @media (max-width: 900px) {
     max-width: 100%;
   }
