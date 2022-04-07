@@ -27,7 +27,7 @@ const StyledHeroText = styled.div`
 `;
 
 const StyledLogo = styled.img.attrs({
-  src: "/logo.svg",
+  src: "/Logo.svg",
 })`
   position: absolute;
   left: 5.86%;
