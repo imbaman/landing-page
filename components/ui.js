@@ -31,6 +31,7 @@ export const StyledSpan = styled(motion.span)`
 
 export const StyledHeading = styled(motion.h2)`
   font-weight: 700;
+  font-family: "Arial";
   color: ${({ color }) => color};
   font-size: ${({ fs }) => fs}px;
   padding-bottom: ${({ pb }) => pb}px;
